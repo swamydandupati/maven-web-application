@@ -5,6 +5,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
+<link href="images/swamy.jpg" rel="icon">	
+	
 <body>
 <h1 align="center">Welcome to my world</h1>
 <h1 align="center">I’m 98% sure that you don’t like me, but I’m 100% sure I don’t care.</h1>
