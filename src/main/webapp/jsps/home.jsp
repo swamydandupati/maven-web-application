@@ -15,7 +15,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/swamy.jpg" alt="" width="700">
+		<img src="images/swamy.jpg" alt="" width="900">
 	</span>
 	<span style="font-weight: bold;">
 </div>
