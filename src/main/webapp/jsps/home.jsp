@@ -10,12 +10,12 @@
 </head>
 <body>
 <h1 align="center">Welcome to MY WORLD </h1>
-<h1 align="center"> I’m 98% sure that you don’t like me, but I’m 100% sure I don’t care</h1>
+<h1 align="center"> I Hate It When People Compare Me To Others .....Come On dude I Have My Own DNA 🧬🧬🧬🧬</h1>
 
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/swamy.jpg" alt="" width="500">
+		<img src="images/swamy.jpg" alt="" width="700">
 	</span>
 	<span style="font-weight: bold;">
 </div>
