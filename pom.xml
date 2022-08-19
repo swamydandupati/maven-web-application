@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>swamydandupati</name>
-	      <url>http://44.203.90.128:9199/repository/walmart-dev-release/</url>
+	      <url>http://44.203.90.128:9199/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>swamydandupati</name>
-	      <url>http://44.203.90.128:9199/repository/walmart-dev-snapshot/</url>
+	      <url>http://44.203.90.128:9199/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
