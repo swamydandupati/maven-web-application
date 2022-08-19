@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">HELLOoooooo MY DEAR WORLD </h1>
+<h1 align="center">HELLO MY DEAR WORLD </h1>
 <h1 align="center"> I Hate It When People Compare Me To Others .....Come On dude I Have My Own DNA 🧬🧬🧬🧬</h1>
 
 <hr>
