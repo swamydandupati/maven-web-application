@@ -16,7 +16,7 @@ node{
       sh "${mavenHome}/bin/mvn clean package sonar:sonar"    
     }
     
-/*
+
     stage('UploadArtifactintiNexus')
     {
       sh "${mavenHome}/bin/mvn clean package sonar:sonar deploy"    
@@ -30,7 +30,7 @@ node{
 
 }  
     }
-*/    
+    
 stage('SendEmailNotification')
     { 
       emailext body: '''Build is over,
