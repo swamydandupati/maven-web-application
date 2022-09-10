@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Hello vasu </h1>
-<h1 align="center"> I Hate It When People Compare Me To Others .....Come On dude I Have My Own DNA 🧬🧬🧬🧬🧬🧬🧬🧬</h1>
+<h1 align="center"> I Hate It When People Compare Me To Others .....Come On dude I Have My Own DNA </h1>
 
 <hr>
 <div style="text-align: center;">
